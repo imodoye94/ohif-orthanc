@@ -1,5 +1,5 @@
 {
-  "Name" : "M A P D R",
+  "Name" : "M E D I V E R S E",
   "StorageDirectory" : "/var/lib/orthanc/db",
   "IndexDirectory" : "/var/lib/orthanc/db",
   "StorageCompression" : true,
@@ -21,7 +21,7 @@
   "WebDavDeleteAllowed" : false,
   "WebDavUploadAllowed" : true,
   "DicomServerEnabled" : true,
-  "DicomAet" : "MAPDR",
+  "DicomAet" : "MEDIVERSE",
   "DicomCheckCalledAet" : true,
   "DicomPort" : 4242,
   "DefaultEncoding" : "Latin1",
@@ -36,7 +36,7 @@
   "SslTrustedClientCertificates" : "trustedClientCertificates.pem",
   "AuthenticationEnabled" : true,
     "RegisteredUsers" : {
-    "mapdr" : "changestrongpassword"
+    "admin" : "admin"
   },
   "DicomTlsEnabled" : false,
   "DicomTlsRemoteCertificateRequired" : true,
